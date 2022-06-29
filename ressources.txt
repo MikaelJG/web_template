@@ -1,8 +1,8 @@
 Resources
 
-    Icons: Icon store, The Noun Project, NucleoApp
+    Icons: font awesome. Icon store, The Noun Project, NucleoApp
     Fonts: Google Fonts
     Colors: Colorzilla, Coolors, Color Hunt
     Background images: Pexels
     CSS libraries: Bootstrap, Material Design
-    Images: Unsplash.it
+    Images: Unsplash.it.
